@@ -1,0 +1,60 @@
+{
+  "high_signal_topics": [
+    "llm", "large-language-model", "gpt", "ai-agent", "ai-agents",
+    "langchain", "llamaindex", "rag", "retrieval-augmented-generation",
+    "mcp", "model-context-protocol", "mcp-server",
+    "transformer", "diffusion", "stable-diffusion",
+    "machine-learning", "deep-learning", "neural-network",
+    "computer-vision", "nlp", "natural-language-processing",
+    "reinforcement-learning", "generative-ai", "gen-ai",
+    "openai", "anthropic", "claude", "gemini",
+    "vector-database", "embedding", "fine-tuning",
+    "chatbot", "conversational-ai", "speech-recognition",
+    "autonomous-agent", "multi-agent", "agentic"
+  ],
+  "medium_signal_topics": [
+    "data-science", "data-engineering", "mlops",
+    "tensorflow", "pytorch", "jax", "huggingface",
+    "api", "sdk", "developer-tools", "cli",
+    "automation", "workflow", "pipeline"
+  ],
+  "internal_tool_keywords": [
+    "internal", "tool", "sdk", "client", "mcp",
+    "dashboard", "admin", "portal", "helper",
+    "utility", "service", "platform", "infra"
+  ],
+  "search_queries": {
+    "ai_repos": [
+      "topic:llm language:python stars:>10 created:>2024-01-01",
+      "topic:ai-agent language:python stars:>5 created:>2024-01-01",
+      "topic:rag language:python stars:>5 created:>2024-01-01",
+      "topic:mcp stars:>3",
+      "mcp server language:python stars:>3",
+      "mcp server language:typescript stars:>3",
+      "model context protocol stars:>2",
+      "topic:langchain stars:>10 created:>2024-01-01",
+      "topic:generative-ai stars:>10 created:>2024-01-01",
+      "topic:ai-agent language:typescript stars:>5 created:>2024-01-01"
+    ],
+    "indian_builders": [
+      "location:india language:python followers:>50 repos:>10",
+      "location:india language:python followers:>20 repos:>20",
+      "location:bangalore language:python followers:>30",
+      "location:mumbai language:python followers:>30",
+      "location:delhi language:python followers:>30",
+      "location:hyderabad language:python followers:>30",
+      "location:pune language:python followers:>20",
+      "location:chennai language:python followers:>20",
+      "location:india language:typescript followers:>50 repos:>10",
+      "location:india language:rust followers:>20",
+      "location:india language:go followers:>30 repos:>10"
+    ],
+    "company_internal_tools": [
+      "zomato OR swiggy OR razorpay tool",
+      "flipkart OR phonepe OR cred sdk",
+      "zerodha OR groww internal",
+      "\"internal tool\" language:python stars:>3",
+      "\"internal tool\" language:typescript stars:>3"
+    ]
+  }
+}
